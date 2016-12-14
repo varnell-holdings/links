@@ -1,1 +1,2 @@
 # links
+[nytimes](nytimes.com)
